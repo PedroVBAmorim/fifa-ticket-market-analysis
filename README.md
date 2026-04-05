@@ -6,7 +6,7 @@
 
 ## Overview
 
-This portfolio documents a data-driven secondary-market ticket strategy across the FIFA World Cup 2026. Positions were managed across multiple U.S. host cities and match stages, combining market analysis, Excel-based financial modeling, and real-time pricing decisions to generate meaningful returns over a roughly six-month holding period.
+This portfolio documents a data-driven secondary-market ticket strategy across the FIFA World Cup 2026, executed exclusively through the official FIFA resale platform. Positions were managed across multiple U.S. host cities and match stages, combining market analysis, Excel-based financial modeling, and real-time pricing decisions to generate meaningful returns over a roughly six-month holding period.
 
 ---
 
