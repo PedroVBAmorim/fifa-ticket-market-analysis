@@ -1,0 +1,11 @@
+stage,location,sale_date,qty,roi_tier,outcome
+Round of 32,Dallas,Oct 2025,4,High,Profitable
+Round of 32,San Francisco,Oct 2025,4,High,Profitable
+Round of 32,Los Angeles,Oct-Nov 2025,4,Medium,Profitable
+Round of 32,Miami,Nov 2025,4,Medium,Profitable
+Round of 16,Dallas,Oct-Nov 2025,4,High,Profitable
+Round of 16,Philadelphia,Oct-Feb 2026,4,High,Profitable
+Round of 16,NY/New Jersey,Oct-Feb 2026,4,High,Profitable
+Quarter-Final,Kansas City,Oct-Feb 2026,4,High,Profitable
+3rd Place,Miami,Dec-Feb 2026,4,Low,Below Target
+USA Opener,Los Angeles,Feb-Apr 2026,4,Mixed,Mixed
